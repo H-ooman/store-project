@@ -1,0 +1,13 @@
+.container404{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.container404 p{
+ color: #fe5d42;
+ font-size: 3rem;
+}
+.container404 span{
+    color: #fe5d42;
+    font-size: 10rem;
+}

@@ -66,9 +66,9 @@ npm run build
 
 🖼️ Screenshots
 
-![Home Page](./src/img/png1.png)
-![Product Details](./src/img/png2.png)
-![Cart Page](./src/img/png3.png)
+![Home Page](./img/png1.png)
+![Product Details](./img/png2.png)
+![Cart Page](./img/png3.png)
 
 
 🌐 API Used
